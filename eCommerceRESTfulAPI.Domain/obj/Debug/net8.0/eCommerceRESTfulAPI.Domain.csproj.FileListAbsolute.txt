@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\bin\Debug\net8.0\eCommerceRESTfulAPI.Domain.deps.json
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\bin\Debug\net8.0\eCommerceRESTfulAPI.Domain.dll
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\bin\Debug\net8.0\eCommerceRESTfulAPI.Domain.pdb
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\eCommerceRESTfulAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\eCommerceRESTfulAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\eCommerceRESTfulAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\eCommerceRESTfulAPI.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\eCommerceRESTfulAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\eCommerceRESTfulAPI.Domain.dll
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\refint\eCommerceRESTfulAPI.Domain.dll
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\eCommerceRESTfulAPI.Domain.pdb
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Domain\obj\Debug\net8.0\ref\eCommerceRESTfulAPI.Domain.dll

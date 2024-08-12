@@ -1,0 +1,6 @@
+@eCommerceRESTfulAPI_HostAddress = http://localhost:5174
+
+GET {{eCommerceRESTfulAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

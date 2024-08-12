@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\bin\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.deps.json
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\bin\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.runtimeconfig.json
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\bin\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.dll
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\bin\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.pdb
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\bin\Debug\net8.0\eCommerceRESTfulAPI.Domain.dll
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\bin\Debug\net8.0\eCommerceRESTfulAPI.Domain.pdb
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.csproj.CopyComplete
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.dll
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\refint\eCommerceRESTfulAPI.Infrastructure.dll
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.pdb
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\eCommerceRESTfulAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\user\source\repos\eCommerceRESTfulAPI\eCommerceRESTfulAPI.Infrastructure\obj\Debug\net8.0\ref\eCommerceRESTfulAPI.Infrastructure.dll
